@@ -11,6 +11,10 @@ color: grey;
 div {
  color: black;
  align-content: center;
+ width: 500px;
+padding: 20px;
+border-radius: 25px;
+margin: 0 auto;
 }
 
 
